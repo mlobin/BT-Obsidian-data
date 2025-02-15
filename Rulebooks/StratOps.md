@@ -1,0 +1,1 @@
+https://www.sarna.net/wiki/Strategic_Operations
