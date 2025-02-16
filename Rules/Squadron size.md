@@ -23,4 +23,4 @@
 |Clan Aerospace Point | 2
 |Inner Sphere Flight | 2
 |Capellan Flight | 3
-[[Самолет]]
+[[Aerospace Fighter]]

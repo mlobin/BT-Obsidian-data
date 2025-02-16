@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "b2ee118fa9efbb73",
+    "type": "split",
+    "children": [
+      {
+        "id": "80934c6f05004f20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9841920f98ccbb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Augmentations/Cybernetic Vehicular Direct Neural Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cybernetic Vehicular Direct Neural Interface"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1062ab52feed988",
+    "type": "split",
+    "children": [
+      {
+        "id": "8238ed7110f7fafd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e40ace24579ec65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fcd87ed2cc4018b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0d226316f5ed98f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "91a2b17f91352c95",
+    "type": "split",
+    "children": [
+      {
+        "id": "b113d3399825361f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34df5c512205d4d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "603d74e433990091",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f0adcf6ce13f9f08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f82a3863c1418f14",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ab86ba3535705e9a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9841920f98ccbb1d",
+  "lastOpenFiles": [
+    "Augmentations/Clan Enhanced Imaging Neural Implant.md",
+    "Rulebooks/Tactical Operations.md",
+    "Units/ProtoMech.md",
+    "Augmentations/Cybernetic Vehicular Direct Neural Interface.md",
+    "Augmentations/Artificial Pain Shunt.md",
+    "Augmentations/Cybernetic Buffered VDNI.md",
+    "Quirks",
+    "Support systems/Machina Domini.md",
+    "Rulebooks/Interstellar Operations.md",
+    "Rulebooks/A Time of War.md",
+    "Support systems",
+    "Rules/Forced Withdrawal.md",
+    "Eras",
+    "Factions/Federated Suns.md",
+    "Factions/Capellan Confederation.md",
+    "Factions/Word of Blake.md",
+    "Factions",
+    "Units/Support Vehicle.md",
+    "Units/Industrial Mech.md",
+    "Rules/Experience Ratings.md",
+    "Rules/Augmentations general rules.md",
+    "Rules/Generic conventional infantry damage table.md",
+    "Units/Combat Vehicle.md",
+    "Rules/Morale.md",
+    "Rules/Squadron size.md",
+    "Units/Aerospace Fighter.md",
+    "Units/Conventional FIghter.md",
+    "Weapons",
+    "Untitled.md",
+    "Augmentations",
+    "Rulebooks/Campaign Operations.md",
+    "Rulebooks/Jihad Hot Spots 3072.md",
+    "Faction rules"
+  ]
+}

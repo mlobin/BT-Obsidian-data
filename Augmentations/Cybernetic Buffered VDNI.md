@@ -1,0 +1,10 @@
+Era: Jihad (3068-3085)
+Factions: [[Word of Blake]]
+Unit Types: [[BattleMech|BM]], [[Industrial Mech|IM]], [[Battlearmor||BA]], [[Combat Vehicle|CV]], [[Support Vehicle|SV]], [[Aerospace Fighter|AF]], [[Conventional FIghter|CF]]
+
+Game Rules: Units operated by warriors using buffered VDNI receive only a –1 to-hit modifier for Gunnery Skill checks. They do not receive a similar modifier for Piloting due to a slight “neuro-lag” produced by the requisite buffers, but if the unit in question features a Small Cockpit, the buffered-VDNI pilot ignores its associated +1 Piloting target modifier. (Indeed, buffered VDNI cockpit designs are actually far more compact than conventional control systems, a feature that enables compact control systems that allow for more weapon room on ’Mechs and fighters.)
+MechWarriors and vehicle pilots using buffered VDNI do not check for pilot feedback damage from simple internal structure damage, but must do so only when an actual critical hit occurs—regardless of the component struck. Tracking and resolving the effects of these pilot hits otherwise follows the same rules as described in the basic [[Cybernetic Vehicular Direct Neural Interface|VDNI]].
+Fighters and battle armor operated via buffered [[Cybernetic Vehicular Direct Neural Interface|VDNI]] do not have to check for feedback damage at all.
+A standard VDNI (or Buffered VDNI) is required to make use of the [[Machina Domini]] interface (see pp. 116, [[Interstellar Operations|IO]]).
+
+Construction Rules: The construction rules for buffered [[Cybernetic Vehicular Direct Neural Interface|VDNI]] implants—and the requisite modifications to the pilot’s battlesuit, vehicle, fighter, or ’[[Cybernetic Vehicular Direct Neural Interface|VDNI]]—follow the same rules as described above for the basic VDNI system.

@@ -1,0 +1,7 @@
+Era: All
+Factions: Any
+Unit Types: Any
+
+**Game Rules**: MechWarriors, pilots and vehicle crews with a pain shunt do not suffer pilot damage caused from ammunition explosions, heat effects, or [[Cybernetic Vehicular Direct Neural Interface|VDNI]] feedback damage through internal structure or critical damage. Any other pilot damage (such as that caused by direct hits to the head or falling) is recorded normally, but the pilot with a Pain Shunt does not make a Consciousness Roll.
+Non-VDNI vehicle commanders, drivers and crew equipped with pain shunts suffer the effects of the following critical hits only after taking two such hits: Driver Hit, Commander Hit and Crew Killed. Painshunted vehicle crews completely ignore the Crew Stunned critical hit. (Thus, it takes two Commander Hits on a vehicle commander with a pain shunt before the combat penalties apply; it takes two Crew Killed results to kill a non-VDNI crew equipped with Pain Shunts.) Conventional infantry and battle armor units comprised of painshunted warriors reduce by half any damage caused by flame-based weapons, reflecting their deadened senses and fearlessness of fire. 
+Finally, if the [[Morale]] rules are in play (see pp. 211-213, [[Tactical Operations|TO]]), painshunted units receive an additional –4 target number modifier to their Morale checks, to reflect their reduced sense of mortality. Painshunted units also ignore [[Forced Withdrawal]] rules (see p. 28, [[Total Warfare|TW]]) for pilot/crew damage or loss of troops.
