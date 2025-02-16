@@ -1,4 +1,4 @@
-Era: Clan Invasion through Jihad (3050-3085)
+Era: [[Clan Invasion]] through [[Jihad]] (3050-3085)
 Factions: [[Word of Blake]], [[Federated Suns]],[[Capellan Confederation]]
 Unit Types: [[BattleMech|BM]], [[IndustrialMech|IM]], [[Battlearmor||BA]], [[Combat Vehicle|CV]], [[Support Vehicle|SV]], [[Aerospace Fighter|AF]], [[Conventional FIghter|CF]]
 

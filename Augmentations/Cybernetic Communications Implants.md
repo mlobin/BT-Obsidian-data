@@ -1,5 +1,5 @@
 
-**Eras:** Any after Age of War (2570+)  
+**Eras:** Any after [[Age of War]] (2570+)  
 **Factions:** Any  
 **Unit Types:** [[BattleMech|BM]], [[IndustrialMech|IM]], [[Battlearmor|BA]], [[Infantry|CI]], [[Combat Vehicle|CV]], [[Support Vehicle|SV]]  
 

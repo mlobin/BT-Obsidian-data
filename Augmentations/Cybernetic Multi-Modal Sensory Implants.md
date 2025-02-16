@@ -1,4 +1,4 @@
-**Era:** Civil War and Jihad (3062-3085)  
+**Era:** [[Civil War]] and [[Jihad]] (3062-3085)  
 **Factions:** [[Word of Blake]], [[Capellan Confederation]]  
 **Unit Types:** [[BattleMech|BM]], [[IndustrialMech|IM]], [[Battlearmor|BA]], [[Infantry|CI]], [[Combat Vehicle|CV]], [[Support Vehicle|SV]]  
 

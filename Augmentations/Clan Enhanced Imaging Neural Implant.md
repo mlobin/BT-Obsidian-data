@@ -1,5 +1,5 @@
 
-Era: Any after the Clan Invasion (3050+)
+Era: Any after the [[Clan Invasion]] (3050+)
 Factions: Clans only
 Unit Types: [[Battlearmor|Battle Armor]], [[ProtoMech]]s, [[BattleMech|’Mechs]]
 

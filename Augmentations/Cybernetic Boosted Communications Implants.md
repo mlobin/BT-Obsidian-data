@@ -1,9 +1,9 @@
 
-**Eras:** Civil War and Jihad (3062-3085)  
+**Eras:** [[Civil War]] and [[Jihad]] (3062-3085)  
 **Factions:** [[Word of Blake]]  
 **Unit Types:** [[BattleMech|BM]], [[IndustrialMech|IM]], [[Battlearmor|BA]], [[Infantry|CI]], [[Combat Vehicle|CV]], [[Support Vehicle|SV]]  
 
-Boosted forms of the various cyber-communication implants emerged among the [[Word of Blake]]’s Manei during the Jihad. When combined with the flexibility of the Word’s enhanced multi-modal sensory implants, these augmentations actually made it possible for even a humble infantry unit to serve as part of a C3 network.
+Boosted forms of the various cyber-communication implants emerged among the [[Word of Blake]]’s [[Manei Domini|Manei]] during the Jihad. When combined with the flexibility of the Word’s enhanced multi-modal sensory implants, these augmentations actually made it possible for even a humble infantry unit to serve as part of a C3 network.
 
 ---
 

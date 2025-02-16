@@ -1,5 +1,5 @@
 
-**Era:** Any after Age of War (2570+)  
+**Era:** Any after [[Age of War]] (2570+)  
 **Factions:** Any  
 **Unit Types:** [[Infantry|CI]]  
 

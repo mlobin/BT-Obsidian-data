@@ -1,4 +1,4 @@
-Era: Jihad (3068-3085)
+Era: [[Jihad]] (3068-3085)
 Factions: [[Word of Blake]]
 Unit Types: [[BattleMech|BM]], [[IndustrialMech|IM]], [[Battlearmor||BA]], [[Combat Vehicle|CV]], [[Support Vehicle|SV]], [[Aerospace Fighter|AF]], [[Conventional FIghter|CF]]
 
