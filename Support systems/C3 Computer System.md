@@ -31,4 +31,4 @@ The C3 computer system can link up to twelve ’Mechs or vehicles together—uti
 ### Stealth Armor Interaction  
 - Armor that inflicts range modifiers against attacking units (e.g., [[Stealth Armor|Stealth Armor]], p. 142, [[Total Warfare|TW]]) does not confuse a C3 network.  
   - While such additional range modifiers apply to the nearest attacking unit, they do not apply to any other units using the network to attack.  
-- However, if the target unit’s armor includes an [[ECM]] system (e.g., [[Stealth Armor|Stealth Armor]]), an attacking unit must be outside the effective range of the [[ECM]] or be cut off from the network.  
+- However, if the target unit’s armor includes an [[ECM Suite]] system (e.g., [[Stealth Armor|Stealth Armor]]), an attacking unit must be outside the effective range of the [[ECM Suite]] or be cut off from the network.  
