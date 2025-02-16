@@ -55,6 +55,20 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "path:Armor  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:Weapons  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -63,10 +77,10 @@
   "nodeSizeMultiplier": 1.00155925155925,
   "lineSizeMultiplier": 0.981185031185031,
   "collapse-forces": false,
-  "centerStrength": 0.620582120582121,
+  "centerStrength": 0.603950103950104,
   "repelStrength": 18.4823284823285,
   "linkStrength": 0.412681912681913,
   "linkDistance": 199,
   "scale": 0.24340206009202559,
-  "close": true
+  "close": false
 }

@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cfab06593a34aeb1",
+        "id": "795eb6b5ff3405b6",
         "type": "tabs",
         "children": [
           {
-            "id": "ce09ccbbc48bbda4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Anti-'Mech Attacks (subfolder)/Leg Attacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Leg Attacks"
-            }
-          },
-          {
-            "id": "cf881bc7330568ce",
+            "id": "5b4d1e643727bb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Swarm Attacks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,41 +178,41 @@
   },
   "active": "3e40ace24579ec65",
   "lastOpenFiles": [
-    "Rules/Tables/Swarm Attacks Table.md",
+    "Swarm Hit Location Table.md",
     "Rules/Anti-'Mech Attacks (subfolder)/Swarm Attacks.md",
+    "Rules/Tables/Vehicle Hit Location Table.md",
+    "Rules/Tables/Swarm Attacks Table.md",
+    "Rules/Tables/Determining Critical Hits Table.md",
+    "Rules/Tables/Swarm Attacks Hit Location Table.md",
+    "Rules/Anti-'Mech Attacks (subfolder)/Fighting off Swarm Attacks/Vehicles fighting off Swarming.md",
+    "Rules/Anti-'Mech Attacks (subfolder)/Fighting off Swarm Attacks/Aerospace fighting off Swarming.md",
+    "Rules/Anti-'Mech Attacks (subfolder)/Fighting off Swarm Attacks/Basic fighting off.md",
+    "Rules/Anti-'Mech Attacks (subfolder)/Fighting off Swarm Attacks/Friendly help.md",
+    "Rules/Anti-'Mech Attacks (subfolder)/Fighting off Swarm Attacks/Entering Water.md",
+    "Rules/Anti-'Mech Attacks (subfolder)/Fighting off Swarm Attacks/Falling or Dropping Prone.md",
+    "Rules/Anti-’Mech Attacks.md",
+    "Rules/Tables/Punch Location Table.md",
+    "Weapons/Melee attacks/Charging Attack.md",
+    "Weapons/Melee attacks/Death from Above.md",
+    "Weapons/Melee attacks/Punch Attacks.md",
+    "Weapons/Melee attacks",
+    "Augmentations/Cybernetic Triple-Core Processor Implant.md",
+    "Support systems/Cockpit Command Module.md",
+    "Support systems/CASE (Cellular Ammunition Storage Equipment).md",
+    "TW.md",
+    "Rules/Anti-'Mech Attacks (subfolder)/Leg Attacks.md",
+    "Augmentations/Cybernetic Myomer Implants, Triple-Strength.md",
+    "Rules/Untitled.md",
     "Rules/Domino Effect.md",
     "Rules/Tables/Swarm Attacks Modifier Table.md",
-    "Rules/Anti-’Mech Attacks.md",
-    "Rules/Anti-'Mech Attacks (subfolder)/Leg Attacks.md",
-    "Rules/Tables/’Mech Kick Location Table.md",
-    "Rules/Tables/Determining Critical Hits Table.md",
-    "Rules/Tables/Leg Attacks Table.md",
     "Rules/Tables",
-    "Rules/Anti-'Mech Attacks (subfolder)/Swarm Attacks (subfolder)",
+    "Rules/Anti-'Mech Attacks (subfolder)/Fighting off Swarm Attacks",
     "Rules/Anti-'Mech Attacks (subfolder)",
-    "Support systems/Anti-Personnel Pod (A-Pod).md",
-    "Support systems/TSM (Triple-Strength Myomer).md",
-    "Rules/Critical hits.md",
-    "Augmentations/Cybernetic Myomer Implants, Triple-Strength.md",
-    "Support systems/TAG (Targeting Acquisition Gear).md",
-    "Support systems/C3 Computer System.md",
-    "Armor/Stealth Armor System.md",
-    "Weapons/Missile/Streak SRM.md",
-    "Support systems/Artemis IV FCS.md",
-    "Rules/LRM Indirect Fire.md",
-    "Augmentations/Cybernetic Communications Implants.md",
-    "Weapons/Missile/MLM.md",
-    "Weapons/Missile/MML.md",
-    "Weapons/Missile/MRM.md",
     "Weapons/Plasma",
-    "Weapons/Untitled.md",
-    "Weapons/Missile/ATM.md",
-    "Weapons/Missile/LRM.md",
     "Weapons/Ballistic",
     "Weapons/Laser",
     "Weapons/Gauss",
     "Weapons/Missile",
-    "Armor",
-    "Eras"
+    "Armor"
   ]
 }

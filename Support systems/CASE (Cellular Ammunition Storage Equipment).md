@@ -14,4 +14,4 @@ Critical hits on slots occupied by CASE have **no effect** and should be **re-ro
 See **Ammunition** under *Ground Combat Vehicle Critical Hit Effects* in the *Combat Vehicles* section, p. 193, [[Total Warfare|TW]].  
 
 ### Aerospace Fighters  
-See **[[Heat]]**, p. 161, [[TW]].  
+See **[[Heat]]**, p. 161, [[Total Warfare|TW]].  

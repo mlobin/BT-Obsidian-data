@@ -1,0 +1,1 @@
+If an **[[Aerospace Fighter|Aerospace Unit]]** takes off, it automatically shakes off a swarming infantry unit. The infantry unit is placed in the first hex where the aerospace unit left the ground and takes one hit consisting of **4D6 damage**, applied to the infantry unit as if from an infantry attack.  

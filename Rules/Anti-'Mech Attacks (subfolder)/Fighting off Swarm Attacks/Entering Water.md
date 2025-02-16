@@ -1,0 +1,1 @@
+If a swarmed ’Mech enters **Depth 2 or deeper water**, or falls prone in **Depth 1 or deeper water**, the swarming infantry unit is destroyed unless it has **UMU MP**. Likewise, any swarming infantry unit that lacks **UMU** and is knocked off the target ’Mech in Depth 1 or deeper water hex is destroyed.  
