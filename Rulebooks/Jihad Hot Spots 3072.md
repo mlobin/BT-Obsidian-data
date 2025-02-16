@@ -1,0 +1,1 @@
+https://www.sarna.net/wiki/Jihad_Hot_Spots:_3072

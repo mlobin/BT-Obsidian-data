@@ -1,0 +1,9 @@
+For base Gunnery and Targeting skills (before any implant augmentations are applied), Manei Domini units are always considered Elite (2/3)[^1], and receive a +1 roll modifier when determining random Gunnery and Piloting skills.
+
+**Battle Value**: In CBT gameplay, Manei Domini warriors do not have individual Battle Values per se. Instead, they act as “force multipliers” to the units they operate in combat, based on the how sophisticated their implants are. Although implant effects can vary wildly, this “force multiplier” value can be abstracted in Battle Value form in order to establish a Manei Domini warrior’s relative combat potential. The Manei Domini “Force Multiplier” value equals 0.75 plus the Domini warrior’s highest implant level divided by 4 (without rounding), so a Domini whose highest-level implant has a value of 2 would have a “Force Multiplier” of 1.25 (0.75 + (2 / 4) = 1.25). This multiplier applies to all noninfantry Manei Domini-piloted combat units 200 tons and under, and infantry units comprised of a significant portion of Manei
+Domini. Infantry units comprised of less than two-thirds’ worth of Manei Domini warriors and units larger than 200 tons receive no multiplier for Manei Domini presence.
+
+The Manei Domini Force Multiplier applies after the unit first determines its skill-modified Battle Value, and the skills used to determine this skill-modified Battle Value must be those of the warrior before factoring in any implants. Thus, a 1,655-BV Deva Invictus piloted by a Manei Domini whose highest-level implant has a value of 2 and whose base Gunnery/Piloting skills (before implants) are 2/3, would multiply the ’Mech’s BV first by 2.08 (the skill multiplier for a 2/3 MechWarrior), and then by the 1.82 for a Domini with Level-2 implants. The Deva’s final BV would thus be 3,765 (1,655 BV x 1.82 (skills) x 1.25 (implants) = 3,765).
+
+Source: [[Jihad Hot Spots 3072]], p. 122
+[^1]: [[Experience Ratings]]
