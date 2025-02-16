@@ -1,3 +1,5 @@
+Source: [[Interstellar Operations]], p. 77
+
 | Unit                       | Number of Mods (Min / Max) |
 | -------------------------- | -------------------------- |
 | Infantry                   | 1 / 4                      |

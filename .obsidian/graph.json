@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 5419488
       }
+    },
+    {
+      "query": "path:Eras  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": false,
@@ -60,6 +67,6 @@
   "repelStrength": 18.4823284823285,
   "linkStrength": 0.412681912681913,
   "linkDistance": 199,
-  "scale": 0.233730357726066,
-  "close": false
+  "scale": 0.45941011768196616,
+  "close": true
 }

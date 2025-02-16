@@ -1,3 +1,4 @@
+Source: [[Interstellar Operations]], p. 77
 Era: All
 Factions: Any
 Unit Types: Any

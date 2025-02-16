@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Augmentations/Cybernetic Gas Effuser, Pheromone.md",
+                "file": "Augmentations/Artificial Pain Shunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cybernetic Gas Effuser, Pheromone"
+              "title": "Artificial Pain Shunt"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magistracy of Canopus.md",
+                "file": "Subfactions/Magistracy of Canopus.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "Magistracy of Canopus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,11 +190,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f530c1821dc337ed",
+  "active": "9841920f98ccbb1d",
   "lastOpenFiles": [
-    "Magistracy of Canopus.md",
+    "Augmentations/Cybernetic Boosted Communications Implants.md",
+    "Augmentations/Clan Enhanced Imaging Neural Implant.md",
+    "Rules/Forced Withdrawal.md",
+    "Rules/Experience Ratings.md",
+    "Rules/Augmentations general rules.md",
+    "Augmentations/Artificial Pain Shunt.md",
+    "Augmentations/Cybernetic Gas Effuser, Toxin.md",
     "Augmentations/Cybernetic Gas Effuser, Pheromone.md",
+    "Support systems/C3.md",
+    "Factions/Word of Blake.md",
+    "Factions/Federated Suns.md",
+    "Factions/Capellan Confederation.md",
+    "Eras/Jihad.md",
+    "Eras/Clan Invasion.md",
     "Eras/Dark Age.md",
+    "Eras/Civil War.md",
+    "Eras/Age of War.md",
+    "Rules/Morale.md",
+    "Subfactions/Magistracy of Canopus.md",
     "Augmentations/Cybernetic Vehicular Direct Neural Interface.md",
     "Augmentations/Cybernetic Sensory Implants.md",
     "Augmentations/Cybernetic Multi-Modal Sensory Implants.md",
@@ -203,23 +218,7 @@
     "Augmentations/Cybernetic Enhanced Multi-Modal Sensory Implants.md",
     "Augmentations/Cybernetic Communications Implants.md",
     "Augmentations/Cybernetic Buffered VDNI.md",
-    "Augmentations/Cybernetic Boosted Communications Implants.md",
-    "Augmentations/Clan Enhanced Imaging Neural Implant.md",
-    "Eras/Civil War.md",
-    "Eras/Clan Invasion.md",
-    "Eras/Age of War.md",
-    "Eras/Jihad.md",
     "Eras",
-    "Subfactions/Manei Domini.md",
-    "Subfactions/Thuggee Phansigars.md",
-    "Support systems/C3.md",
-    "Support systems/Improved C3.md",
-    "Factions/Thuggee Phansigars.md",
-    "Factions/Word of Blake.md",
-    "Units/IndustrialMech.md",
-    "Rulebooks/Tactical Operations.md",
-    "Units/ProtoMech.md",
-    "Augmentations/Artificial Pain Shunt.md",
     "Quirks",
     "Support systems",
     "Eras",

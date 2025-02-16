@@ -1,3 +1,4 @@
+Source: [[Campaign Operations]], p. 34
 
 | Average of All Gunnery/Piloting Skills | Force Experience Rating   |
 |----------------------------------------|----------------------------|
@@ -9,4 +10,3 @@
 | 2                                       | Elite                      |
 | 1                                       | Heroic                     |
 | 0 or less                               | Legendary                  |
-Source: [[Campaign Operations]], p. 34
