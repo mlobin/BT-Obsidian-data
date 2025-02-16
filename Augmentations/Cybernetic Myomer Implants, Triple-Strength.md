@@ -2,7 +2,7 @@
 **Factions:** [[Word of Blake]], [[Capellan Confederation]], [[Magistracy of Canopus]]  
 **Unit Types:** All  
 
-Triple-strength myomer implants provide enhanced strength and resilience by replacing human musculature with artificial myomer fibers. Developed as an outgrowth of ’Mech-grade technology, these implants were adopted by elite black ops operatives during the [[Clan Invasion]] and [[Civil War]], before seeing widespread use among the [[Word of Blake|Manei Domini]] and [[Capellan Confederation|Thuggee Phansigars]] during the [[Jihad]].  
+Triple-strength myomer implants provide enhanced strength and resilience by replacing human musculature with artificial myomer fibers. Developed as an outgrowth of ’[[TSM (Triple-Strength Myomer)|Mech-grade technology]], these implants were adopted by elite black ops operatives during the [[Clan Invasion]] and [[Civil War]], before seeing widespread use among the [[Word of Blake|Manei Domini]] and [[Capellan Confederation|Thuggee Phansigars]] during the [[Jihad]].  
 
 ---
 

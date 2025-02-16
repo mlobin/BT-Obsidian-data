@@ -19,4 +19,4 @@ The C3i computer follows the standard [[C3 Computer System|C3 computer rules]], 
 
 ### Compatibility and Limitations  
 - Improved C3i computers are **not** compatible with standard C3 Masters or C3 Slaves.  
-- C3i computers do **not** have the [[Target Acquisition Gear|TAG]] capability of the standard C3 Master.  
+- C3i computers do **not** have the [[TAG (Targeting Acquisition Gear)|TAG]] capability of the standard C3 Master.  

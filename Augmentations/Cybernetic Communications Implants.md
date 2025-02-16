@@ -14,7 +14,7 @@ Infantry units (including battle armor) equipped with cyber-communications impla
 - **Improved indirect LRM attacks** when the augmented infantry unit is acting as a spotter (see p. 111, [[Total Warfare|TW]]).  
 - **Avoiding mines** when passing through minefields (see p. 207, [[Tactical Operations|TO]]).  
 
-For **non-infantry units** using cyber-communications implants, apply a **–1 to-hit modifier** to any indirect LRM or artillery attack made in which the augmented unit is acting as the spotter.
+For **non-infantry units** using cyber-communications implants, apply a **–1 to-hit modifier** to any [[LRM Indirect Fire|indirect]] [[LRM]] or artillery attack made in which the augmented unit is acting as the spotter.
 
 ---
 ## Construction Rules

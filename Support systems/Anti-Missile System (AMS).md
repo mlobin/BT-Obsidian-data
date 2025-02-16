@@ -3,7 +3,7 @@
 Anytime a missile weapon makes a successful to-hit attack against a unit carrying an AMS, and the missile weapon strikes in the attack direction covered by the firing arc where the AMS is mounted, the AMS will automatically engage with the following results:  
 - The attacking player applies a **–4** to the die roll result when rolling on the **Cluster Hits Table** (an AMS never reduces a roll on the table below 2).  
 - If the missile weapon is a **Streak launcher**, treat the launcher as though the controlling player rolled an **11** on the appropriate column of the Cluster Hits Table, then apply the **–4 modifier** to determine how many missiles struck the target.  
-- If the missile weapon normally fires only a single missile in a shot (such as a [[NARC Missile Beacon]]), roll **1D6**: on a result of **1-3**, the missile is destroyed; on a result of **4-6**, the missile strikes the target.  
+- If the missile weapon normally fires only a single missile in a shot (such as a [[Narc Missile Beacon]]), roll **1D6**: on a result of **1-3**, the missile is destroyed; on a result of **4-6**, the missile strikes the target.  
 
 The player cannot choose for the AMS to not engage, as it is always active until it runs out of ammo or is destroyed; 1 shot of ammunition is marked off each time the AMS engages a missile weapon.  
 

@@ -1,6 +1,6 @@
 **Source:** [[Total Warfare]]  
 
-When [[Infantry]] units make **anti-’Mech attacks** or **point-blank shots from hiding** (see rules for *[[Anti-’Mech Attacks]]*, p. 220, and *[[Hidden Units]]*, p. 259 in *Creating Scenarios*), a [[BattleMech|’Mech]] with an A-Pod can defend itself by detonating the pod before the infantry player makes the to-hit roll.  
+When [[Infantry]] units make **anti-’Mech attacks** or **point-blank shots from hiding** (see rules for *[[Anti-’Mech Attacks]]*, [[Total Warfare|TW]], p. 220, and *[[Hidden Units]]*, [[Total Warfare|TW]], p. 259 in *Creating Scenarios*), a [[BattleMech|’Mech]] with an A-Pod can defend itself by detonating the pod before the infantry player makes the to-hit roll.  
 
 If the defender triggers an A-Pod, any [[Infantry|conventional infantry unit]] (friendly or enemy) in the same hex as the ’Mech takes **1D6 – 1** (minimum 1) points of damage **before resolving its own attack**. A-Pods do not affect [[Battlearmor|battle armor]].  
 

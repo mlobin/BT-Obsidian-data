@@ -17,7 +17,7 @@ The C3 computer system can link up to twelve ’Mechs or vehicles together—uti
 - The C3 Master (or C3 Masters if using a company-sized network) must be on the playing area.  
 
 ### TAG and C3 Master  
-- The C3 Master (but not the C3 Slaves) exactly duplicates the function of [[Target Acquisition Gear|TAG]] (see p. 142, [[Total Warfare|TW]]).  
+- The C3 Master (but not the C3 Slaves) exactly duplicates the function of [[TAG (Targeting Acquisition Gear)|TAG]] (see p. 142, [[Total Warfare|TW]]).  
 
 ### LRM Indirect Fire  
 - C3-equipped units spotting targets for or launching an LRM [[LRM Indirect Fire|indirect fire]] attack use the LRM Indirect Fire rules (see p. 111, [[Total Warfare|TW]]) and gain no benefit from a C3 network.  
@@ -29,6 +29,6 @@ The C3 computer system can link up to twelve ’Mechs or vehicles together—uti
 - The range, to determine the damage value of a Variable Damage Weapon, is always determined from the attacking unit to the target.  
 
 ### Stealth Armor Interaction  
-- Armor that inflicts range modifiers against attacking units (e.g., [[Stealth Armor|Stealth Armor]], p. 142, [[Total Warfare|TW]]) does not confuse a C3 network.  
+- Armor that inflicts range modifiers against attacking units (e.g., [[Stealth Armor System|Stealth Armor System]], p. 142, [[Total Warfare|TW]]) does not confuse a C3 network.  
   - While such additional range modifiers apply to the nearest attacking unit, they do not apply to any other units using the network to attack.  
-- However, if the target unit’s armor includes an [[ECM Suite]] system (e.g., [[Stealth Armor|Stealth Armor]]), an attacking unit must be outside the effective range of the [[ECM Suite]] or be cut off from the network.  
+- However, if the target unit’s armor includes an [[ECM Suite]] system (e.g., [[Stealth Armor System|Stealth Armor System]]), an attacking unit must be outside the effective range of the [[ECM Suite]] or be cut off from the network.  
