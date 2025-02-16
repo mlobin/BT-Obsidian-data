@@ -15,7 +15,7 @@ The Artemis IV Fire Control System enhances the accuracy of missile launchers by
 
 ### Special Munitions  
 - Artemis IV **cannot** be used with:  
-  - [[Streak SRM]] munitions.  
+  - [[Streak]] SRM munitions.  
   - [[Narc Missile Beacon]] munitions.  
 - It can be used with **any other kind of special munitions**, but those munitions **do not gain any benefits** from the Artemis IV.  
 - The system **may** be used with one-shot (OS) missile packs.  
